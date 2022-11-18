@@ -1,0 +1,103 @@
+body {
+    background-image: url("../images/green_dust_scratch.png")!important;
+    font-size: 15px!important;
+}
+
+.jumbotron {
+    background-image: url("../images/sunflower-3292932_1920.jpg")!important;
+    background-size: cover!important; 
+    background-position: center!important;
+}
+
+
+p {
+    font-size: 18px!important;
+}
+
+.navbar {
+    background-image: url("../images/sunflower-3292932_1920.jpg")!important;
+}
+
+.card-link {
+    color: #4aaaa5!important;
+    font-size: 20px;
+}
+
+.card-body{
+    font-size: 20px!important;
+}
+
+.card-title{
+    font-size: 20px!important;
+}
+.navbar-brand {
+    font-size: 35px!important;
+    white-space: pre-wrap!important;
+}
+
+.table-hover{
+    white-space: pre-wrap!important;
+}
+
+p.h4 {
+    font-size: 25px!important;
+}
+
+hr { 
+    display: block;
+    margin-top: 0.5em;
+    margin-bottom: 0.5em;
+    margin-left: auto;
+    margin-right: auto;
+    border-style: inset;
+    border-width: 1px;
+} 
+
+.bg-info {
+    background-color: #4aaaa5!important;
+}
+
+.border-info {
+    background-color: #4aaaa5!important;
+}
+
+.btn-info {
+    background-color: #4aaaa5!important; 
+}
+
+.bg-gray-dark {
+    background-color: #666666 !important;
+}
+
+.nav-link {
+    color: white!important;
+}
+
+.navbar-light {
+    color: #777777!important;
+}
+
+.text-light {
+    color: #777777!important;
+}
+
+
+.thumbnail {
+    position: relative;
+    width: 80%; 
+} 
+
+.caption {
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    width: 100%;
+}
+
+.copyright-text {
+    position: absolute;
+    bottom: 0;
+    height: 60px;
+    background-color: #777777;
+    width: 100%;
+}
