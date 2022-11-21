@@ -249,7 +249,11 @@ a:hover {
 }
 
 #top-bar .main-menu li a:hover {
-  color: white;
+  color: #fff;
+}
+
+#top-bar .main-menu li a:visited {
+  color: #444;
 }
 
 .navbar-custom .nav li a {
