@@ -589,9 +589,9 @@ figure .overlay:hover a {
 }
 
 figure .buttons {
-  position: absolute;
-  top: 45%;
-  left: 24%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
 }
 
 figure figcaption {
@@ -968,7 +968,9 @@ article {
 }
 
 .gallery figure .buttons {
-  left: 40%;
+  display: flex;
+  justify-content: center;
+  padding-top: 10%;
 }
 
 .portfolio-meta span {
