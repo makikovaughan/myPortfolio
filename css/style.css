@@ -1352,6 +1352,19 @@ ul.social-icons li {
   text-decoration: none;
 }
 
+#h-skill {
+  font-size: 6rem;
+  text-align: center;
+  color: #02bdd5;
+  padding-bottom: 3rem;
+}
+
+.skill-icon {
+  width: 50%;
+  height: 50%;
+  padding-bottom: 5rem;
+}
+
 /* Responsive styles
 ================================================== */
 /* Large Devices, Wide Screens */
