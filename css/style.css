@@ -249,11 +249,11 @@ a:hover {
 }
 
 #top-bar .main-menu li a:hover {
-  color: #fff;
+  color: #02bdd5;
 }
 
 #top-bar .main-menu li a:visited {
-  color: #444;
+  color: #02bdd5;
 }
 
 .navbar-custom .nav li a {
@@ -1469,10 +1469,10 @@ px      68    160    252    */
     box-shadow: 0 2px 0.09px rgba(0, 0, 0, 0.15);
   }
   .navbar-collapse {
-    background: #02bdd5;
+    background: #fff;
   }
   #top-bar .main-menu li > a {
-    color: #fff;
+    color: #02bdd5;
     padding: 21px 10px;
     background: transparent;
   }
