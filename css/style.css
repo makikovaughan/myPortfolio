@@ -653,6 +653,7 @@ figure figcaption p {
   line-height: 100px;
   overflow: hidden;
   -webkit-border-radius: 50%;
+  border-radius: 50%;
   -moz-border-radius: 50%;
   -ms-border-radius: 50%;
   -o-border-radius: 50%;
@@ -855,6 +856,7 @@ article {
   display: block;
   width: 100%;
   -webkit-transform-style: preserve-3d;
+  transform-style: preserve-3d;
 }
 
 #contact-section {
@@ -1108,7 +1110,6 @@ article {
   border-bottom: 1px solid #dedede;
   padding-top: 30px;
   position: relative;
-  webkit-transform: translateZ(0);
   -webkit-transform: translateZ(0);
   transform: translateZ(0);
 }
