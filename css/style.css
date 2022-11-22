@@ -1366,6 +1366,10 @@ ul.social-icons li {
   padding-bottom: 5rem;
 }
 
+.ion-social-linkedin {
+  font-size: 10rem;
+}
+
 /* Responsive styles
 ================================================== */
 /* Large Devices, Wide Screens */
