@@ -1304,6 +1304,10 @@ article {
   margin-bottom: 0;
 }
 
+#footer .social ul {
+  overflow: hidden;
+}
+
 #footer .social li {
   display: inline-block;
   margin-right: 15px;
